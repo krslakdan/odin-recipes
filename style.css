@@ -11,7 +11,8 @@ body {
 
 .card,
 .card-pizza,
-.card-chicken {
+.card-chicken,
+.card-pasta {
   margin: 20px auto;
   width: 800px;
   background-color: #fff;
