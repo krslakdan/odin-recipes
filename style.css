@@ -13,14 +13,23 @@ body {
 .card-pizza {
   margin: 20px auto;
   width: 800px;
-  height: 200px;
   background-color: #fff;
   text-align: center;
-  padding: 30px;
+}
+
+.card {
+  height: 150px;
 }
 
 .card-pizza {
-  height: 850px;
+  height: auto;
+}
+
+.content {
+  width: 700px;
+  margin: 0 auto;
+  line-height: 25px;
+  margin-bottom: 10px;
 }
 
 .title {
@@ -31,7 +40,11 @@ li {
   list-style: none;
 }
 
-ul li {
+ol li {
+  margin-bottom: 10px;
+}
+
+.list li {
   display: inline;
   margin-right: 20px;
 }
