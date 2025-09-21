@@ -10,7 +10,8 @@ body {
 }
 
 .card,
-.card-pizza {
+.card-pizza,
+.card-chicken {
   margin: 20px auto;
   width: 800px;
   background-color: #fff;
